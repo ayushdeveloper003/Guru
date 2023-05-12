@@ -55,14 +55,14 @@ let infobt = `
 ▢ *${chats.length - groupsIn.length}* private chats
 ▢ *${chats.length}* Total Chats
 
-*≡ OWNER*
-  *Sandaru*
+*≡ Developer*
+  *Ayush*
+▢ Whatsapp :
+  • https://wa.me/16468338933
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
-▢ GitHub :
-  • https://github.com/Mr-Katussa
+  • https://instagram.com/ayush860121?igshid=ZGUzMzM3NWJiOQ==
 ▢ YouTube : 
-  • https://youtube.com/@SANDARU-YT
+  • https://www.youtube.com/@akioisop
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
