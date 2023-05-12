@@ -5,7 +5,7 @@ import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
 
-//fill it
+//fill it//
 global.owner = [
   ['16468338933', 'Ayush', true],
   [''] 
