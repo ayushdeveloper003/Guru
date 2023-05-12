@@ -1,6 +1,6 @@
 
 <p align="center">  
-  <a href="https://youtu.be/WcA7GZuaN0A">
+  <a href="https://www.youtube.com/@akioisop">
     <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
     <h1 align="center">GURU-BOT</h1>
   </a>
@@ -24,7 +24,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/ayushdeveloper001/GURU/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Scan the QR and upload guru.data.json to your fork(will recieve it on your bot number after scanning)
     <br>
